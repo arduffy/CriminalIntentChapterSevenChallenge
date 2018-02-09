@@ -1,24 +1,22 @@
 package com.cidm4385.wt.criminalintent;
 
+import java.util.Date;
 import java.util.UUID;
 
-/**
- * Created by Amanda on 2/5/2018.
- */
-
 public class Crime {
-    private UUID mID;
+
+    private UUID mId;
     private String mTitle;
     private Date mDate;
     private boolean mSolved;
 
-    public Crime(){
+    public Crime() {
         mId = UUID.randomUUID();
         mDate = new Date();
     }
 
-    public UUID getID() {
-        return mID;
+    public UUID getId() {
+        return mId;
     }
 
     public String getTitle() {

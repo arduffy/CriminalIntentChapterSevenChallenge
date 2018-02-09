@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CriminalIntentChapterSevenChallenge.iml" filepath="$PROJECT_DIR$/CriminalIntentChapterSevenChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriminalIntent.iml" filepath="$PROJECT_DIR$/CriminalIntent.iml" />
+      <module fileurl="file://C:\Users\Amanda\Documents\CIDM-4385\CriminalIntent\CriminalIntentChapterSevenChallenge.iml" filepath="C:\Users\Amanda\Documents\CIDM-4385\CriminalIntent\CriminalIntentChapterSevenChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
